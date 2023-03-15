@@ -1,1 +1,1 @@
-# course-site
+# coursera-site
